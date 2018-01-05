@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="L16 Advance Artillery Module">
+	<Package name="l16_aam">
+        <Container name="General">
+    		<Key ID="str_l16_aam_general_category">
+    			<Original>vLehrBrig16</Original>
+				<German>vLehrBrig16</German>
+    		</Key>
+        </Container>
+	</Package>
+</Project>
